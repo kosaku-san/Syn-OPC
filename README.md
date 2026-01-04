@@ -33,5 +33,5 @@ The preprint version is available [here](https://www.biorxiv.org/cgi/content/sho
 You can run the simulation script from the terminal using the following command:
 
 ```bash
-python "Monte Carlo Simulation.py"
+python Monte Carlo Simulation.py
 
