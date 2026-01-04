@@ -11,8 +11,11 @@ The preprint version is available [here](https://www.biorxiv.org/cgi/content/sho
 ------------------------------------------------------------------------
 ## Files
 
-**`Monte Carlo Simulation.py`**: The Python script used to perform the Monte Carlo simulation analysis.
-**`C2genes.csv`**: A CSV file containing the list of genes associated with the C2 cluster (the target gene set).
-**`List of Genes Expressed in Brain.csv`**: A CSV file containing the background list of genes expressed in the brain, used as the reference population for the simulation.
+-   **`Monte Carlo Simulation.py`**
+    -   The Python script used to perform the Monte Carlo simulation analysis.
+-   **`C2genes.csv`**
+    -   A CSV file containing the list of genes associated with the C2 cluster (the target gene set). 
+-   **`List of Genes Expressed in Brain.csv`**
+    -   A CSV file containing the background list of genes expressed in the brain, used as the reference population for the simulation.
 
 ------------------------------------------------------------------------
