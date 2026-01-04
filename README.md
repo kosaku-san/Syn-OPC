@@ -19,3 +19,12 @@ The preprint version is available [here](https://www.biorxiv.org/cgi/content/sho
     -   A CSV file containing the background list of genes expressed in the brain, used as the reference population for the simulation.
 
 ------------------------------------------------------------------------
+## Software Versions
+
+-   **Python:** To run the scripts, you will need **Python 3.x** installed along with the following built-in libraries:
+
+    random (2.60.1),\
+    csv (1.1.4),\
+-   Non-standard hardware is not required.
+    
+------------------------------------------------------------------------
