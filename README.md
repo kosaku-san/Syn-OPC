@@ -6,5 +6,6 @@ This repository contains the scripts and data used to generate figures for the f
 **Authors:** Grinberg et al.  
 **Status:** Under review (Preprint available on bioRxiv)
 
-[**bioRxiv Link:**](https://www.biorxiv.org/content/short/2026.01.01.697017v1)
+The preprint version is available [here](https://www.biorxiv.org/cgi/content/short/2026.01.01.697017v1)
+
 ------------------------------------------------------------------------
