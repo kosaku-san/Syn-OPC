@@ -23,8 +23,8 @@ The preprint version is available [here](https://www.biorxiv.org/cgi/content/sho
 
 -   **Python:** To run the scripts, you will need **Python 3.x** installed along with the following built-in libraries:
 
-    random (2.60.1),\
-    csv (1.1.4),\
+    random,\
+    csv,\
 -   Non-standard hardware is not required.
     
 ------------------------------------------------------------------------
